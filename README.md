@@ -7,3 +7,6 @@ In this project, we conduct a comparative study of discrete and continuous polic
 
 ## Team Members
 This project is a collaborative effort by Cheryl Wang, Alan Yang, and Haowei Qiu. Each member has contributed equally to the project
+
+
+*Here are code references for [TRPO](https://github.com/K1ngPat/FreshieCourses/blob/588a5eb71306aae3f9935656186b203e4865637e/DRL%20Workshop%202023%20Spring/Lecture_04_resources/codes/trpo.py#L15), [PPO](https://github.com/4kasha/CartPole_PPO), and [DDQN](https://github.com/amirmirzaei79/CartPole-DQN-And-DDQN) algorithms. 
